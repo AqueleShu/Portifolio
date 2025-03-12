@@ -136,11 +136,12 @@ body {
 }
 
 .projetos .projeto {
-	max-width: 260px;
+	max-width: 235px;
 	max-height: 500px;
 	position: relative;
 	display: none;
 }
+
 
 .projetos .projeto.ativo {
 	display: block;
